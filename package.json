@@ -2,6 +2,22 @@
   "name": "presenter-qr-web",
   "version": "0.1.0",
   "private": true,
+  "description": "A platform for presenter to creating questions or poll for audience to interact",
+  "keywords": [
+    "PQR"
+  ],
+  "homepage": "https://github.com/phalla-doll/presenter-qr#readme",
+  "bugs": {
+    "url": "https://github.com/phalla-doll/presenter-qr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phalla-doll/presenter-qr.git"
+  },
+  "license": "ISC",
+  "author": "Mantha",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
